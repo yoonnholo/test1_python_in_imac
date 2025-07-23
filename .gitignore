@@ -1,0 +1,16 @@
+# 가상환경 제외
+my_new_env1/
+
+# __pycache__ 같은 Python 자동 생성 디렉토리 제외
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebook checkpoint 파일 제외
+.ipynb_checkpoints/
+
+# Mac 시스템 파일 제외
+.DS_Store
+
+# VS Code 설정 폴더 제외 (필요 시)
+.vscode/

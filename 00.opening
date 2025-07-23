@@ -1,0 +1,9 @@
+1. 가상환경 시작
+source my_new_env1/bin/activate
+
+2. vsCode 실행
+code .
+
+3. 가상환경 종료
+deactivate
+
